@@ -1,0 +1,12 @@
+{
+    "url": "https://ok.nodebb.xyz",
+    "secret": "ds231501-mlab-9085-2610-x38a6944bed7",
+    "database": "redis",
+    "port": "8080",
+    "mongo": {
+        "host": "192.168.1.250",
+        "port": 6379,
+        "password": "irtB2OycWYVBNyuA",
+        "database": "0"
+    }
+}
